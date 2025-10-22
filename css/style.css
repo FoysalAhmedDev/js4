@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.container {
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+h1 {
+  padding-top: 20px;
+}
+.position {
+  padding-top: 20px;
+}
+button {
+  margin-top: 50px;
+  padding: 20px 30px;
+  background: teal;
+  border-radius: 20px;
+  border: none;
+  color: rgb(255, 255, 255);
+  font-size: 50px;
+  cursor: pointer;
+}
+.teal,
+.tomato {
+  margin-left: 100px;
+}
