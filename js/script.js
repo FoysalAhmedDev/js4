@@ -59,7 +59,7 @@ teal.addEventListener("click", () => {
   teal.style.background = "black";
   teal.style.color = "teal";
   position.style.color = "white";
-  heading.style.color = "white";
+  heading.style.color = "black";
 });
 tomato.addEventListener("click", () => {
   document.body.style.background = "tomato";
